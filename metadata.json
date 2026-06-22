@@ -1,0 +1,6 @@
+{
+  "name": "NotebookLM PDF Generáló és Csoportosító",
+  "description": "Tömeges URL-feldolgozó, tartalom-kivonó és NotebookLM-optimalizált PDF-ek generálása és csoportosítása.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
